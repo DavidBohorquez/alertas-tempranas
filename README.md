@@ -7,4 +7,4 @@
 
 </div>
 
-# alertas-tempranas
+# alertas_tempranas
