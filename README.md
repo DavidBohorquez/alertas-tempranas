@@ -3,7 +3,7 @@
 | Nombre | Role |
 |:----------:|:----------:|
 |Néstor David Bohorquez Galeano | Core |
-|Diego Alejandro Velez | Frontend |
+|Diego Alejandro Velez Garcia | Frontend |
 
 </div>
 
