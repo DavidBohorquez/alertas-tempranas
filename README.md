@@ -3,7 +3,7 @@
 | Nombre | Role |
 |:----------|:----------:|
 |Néstor David Bohorquez Galeano | Core |
-|Oscar Gutierrez  | Backend |
+|Oscar Camilo Gutierrez Villarraga | Backend |
 |Diego Alejandro Velez Garcia | Frontend |
 
 </div>
