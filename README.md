@@ -1,4 +1,4 @@
-# Alertas-Tempranas
+# alertas-tempranas
 Creación de una aplicación web que permita el análisis y predicción de la deserción académica de los estudiantes basados en su historial, que le sirva a las diferentes entidades educativas para tomar decisiones correctivas en etapas tempranas del proceso educativo y evaluar su impacto en el porcentaje de abandono de los sistemas educativos.
 ## Integrantes:
 
