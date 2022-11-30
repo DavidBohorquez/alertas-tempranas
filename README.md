@@ -1,14 +1,11 @@
 # Alertas-Tempranas
 Creación de una aplicación web que permita el análisis y predicción de la deserción académica de los estudiantes basados en su historial, que le sirva a las diferentes entidades educativas para tomar decisiones correctivas en etapas tempranas del proceso educativo y evaluar su impacto en el porcentaje de abandono de los sistemas educativos.
 ## Integrantes:
-    <div align="center">
-  
-        | Nombre | Role |
-        |:----------|:----------:|
-        |Néstor David Bohorquez Galeano | Core |
-        |Oscar Camilo Gutierrez Villarraga | Backend |
 
-    </div>
+| Nombre | Role |
+|:----------|:----------:|
+|Néstor David Bohorquez Galeano | Core |
+|Oscar Camilo Gutierrez Villarraga | Backend |
 
 Basado en los datos de https://www.kaggle.com/datasets/ankanhore545/dropout-or-academic-success/discussion/333138?select=Dropout_Academic+Success+-+Sheet1.csv
 https://www.mdpi.com/2306-5729/7/11/146
